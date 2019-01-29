@@ -7,6 +7,8 @@ Diamond is a python daemon that collects system metrics and publishes them to [G
 It is capable of collecting cpu, memory, network, i/o, load and disk metrics.
 Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 
+Diamond Diamond是Python的守护进程，它收集指标，并且将他们发布至Graphite或其它后端。 它能够收集CPU,内存，网络，I/O，负载和硬盘指标。除此，它拥有实现自定义收集器的API，该API几乎能 从任何资源中获取指标
+
 ## Getting Started
 
 Steps to getting started:
